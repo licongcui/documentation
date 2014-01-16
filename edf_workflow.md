@@ -3,8 +3,8 @@
 ### Workflow 
 
 - Go to National Sleep Research Resource (NSRR) website homepage http://www.sleepdata.org<sup>[Fig01]</sup>.
-Fig01: Documentation - SHHS Manual of Operations
 ![Fig01](http://femi.case.edu:3003/edf-dl-01-home.png)
+Fig01: Documentation - SHHS Manual of Operations
 
 - Click the “Datasets” tab to look at all the available study datasets including BestAIR, Childhood Adenotonsillectomy Study, and Sleep Heart Health Study<sup>[Fig02]</sup>.
 
