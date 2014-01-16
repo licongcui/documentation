@@ -30,7 +30,9 @@
 ![Fig07](http://femi.case.edu:3003/edf-dl-07-folder-download.png)
 **Fig07: Download the folder of all EDF files.**
 
-### Questions
+### Questions/Comments
+
+- No problem has occurred when downloading the EDF files.
 
 - In the page http://sleepdata.org/datasets/shhs/files, it would be nice if a brief description of each folder could be provided so that users are  more clear about the contents of each folder.
 
