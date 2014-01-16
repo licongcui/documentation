@@ -26,9 +26,13 @@
 ![Fig06](http://femi.case.edu:3003/edf-dl-06-file-dialog.png)
 **Fig06: Download an individual EDF file.**
 
-- Scroll down to the bottom of the page and you will see “Folder Download” as another option to download all the EDF files in this study. The command to download is provided (red box A). If you do not have GNU Wget installed, please click the link to the installation instructions (red box B) to install it.
+- Scroll down to the bottom of the page and you will see “Folder Download” as another option to download all the EDF files in this study<sup>[Fig07]</sup>. The command to download is provided (red box A). If you do not have GNU Wget installed, please click the link to the installation instructions (red box B) to install it.
 ![Fig07](http://femi.case.edu:3003/edf-dl-07-folder-download.png)
 **Fig07: Download the folder of all EDF files.**
 
 ### Questions
+
+- In the page http://sleepdata.org/datasets/shhs/files, it would be nice if a brief description of each folder could be provided so that users are  more clear about the contents of each folder.
+
+- In the page http://sleepdata.org/datasets/shhs/files/edf_shhs1, there are two scroll-down bars in this page, one is for viewing individual files, the other is for the whole page. If the user is not aware of the two scroll-down bars and just uses the first one to view individual files, he or she will not see the “Folder Download” option at the bottom. It would be nice if both individual and folder download options could be seen when users directly open the page.
 
