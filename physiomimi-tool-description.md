@@ -26,7 +26,9 @@
 
 - Clicking an appropriate candidate term (red arrow) will add a corresponding individual query widget to the "Area for query composition" (red box 3), where you can specify the query based on the "shhs1" table only or both tables "shhs1" and "shhs2" using checkboxes. 
 
-- In the "Area for grouping query widgets" (red box 4), you can logically group query widgets by flipping the Boolean connectors, such as ANDs and ORs. Clicking the "Query" button on the bottom right corner of the "Area for query composition" will generate the number of unique patients satisfying the composed query criteria.
+- In the "Area for grouping query widgets" (red box 4), you can logically group query widgets by flipping the Boolean connectors, such as ANDs and ORs. 
+
+- Clicking the "Query" button on the bottom right corner of the "Area for query composition" will generate the number of unique patients satisfying the composed query criteria.
 
 ![Fig02](http://femi.case.edu:3003/physiomimi-02-querybuilder.png)
 **Fig02: The Query Builder interface. This shows a sample query specification for unique number of subjects in SHHS1 with Age between 45 and 60, Gender as female, Obstructive Apnea Hypopnea Index (OAHI) at 4% desat between 30 and 40.**
