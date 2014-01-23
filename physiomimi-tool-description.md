@@ -9,9 +9,9 @@
 
 > VISAGE has two main components: 
 
-> 1. Query Builder, with ontology-driven terminology support and visual controls such as slider bar and checkboxes; 
+> 1. Query Builder, with terminology support and visual controls such as slider bar and checkboxes; 
 
-> 2. Query Manager, which stores and labels queries for reuse and sharing;
+> 2. Query Manager, which stores and labels queries for reuse and sharing.
 
 > Go to Physio-MIMI website https://mimi.case.edu<sup>[Fig01]</sup>. Sign in if you already have an account registered, otherwise please Sign Up to request access (red box).
 
