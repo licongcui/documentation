@@ -38,7 +38,7 @@
 ![Fig03](http://femi.case.edu:3003/physiomimi-03-savequery.png)
 **Fig03: The Save Query Widget.**
 
-> Clicking the "Save Query" button will lead you to the **Query Manager** page, where you can manage the saved queries<sup>[Fig04]</sup>. Clicking a name of a saved query like "Sample Query" (red box) will link to the Query Builder page with query widgets automatically displayed for the saved query<sup>[Fig02]</sup>.
+> Clicking the "Save Query" button will lead you to the **Query Manager** page, where you can manage the saved queries<sup>[Fig04]</sup>. Clicking a name of a saved query like "Sample Query" (red box) will link to the Query Builder page with query widgets automatically displayed for the saved query<sup>[Fig04]</sup>.
 
 <div class="panel panel-default">
   <div class="panel-body">
