@@ -82,24 +82,22 @@ Start the MetaMap server:
 java -jar ConceptAnnotator.jar <InputPath> <OutputPath>
 ```
 
-### 106 Possible Trouble Shootings
+### 106 Possible Trouble Shooting
 
-* MMServer denies client connection
-
-If you see errors from mmserver similar as:
+If you see errors that MMServer denying client connection similar as:
 
 ```
 ! [PBEANS] - denied connection from 192.168.1.123
 ```
 
-Edit the file public_mm/bin/SKRrun.13 and change the environment variable ACCEPTED_HOSTS:
+Edit the file `<parent_directory>/public_mm/bin/SKRrun.13` and change the environment variable ACCEPTED_HOSTS:
 
 ```
 # for mmserver
 export ACCEPTED_HOSTS="['127.0.0.1']"
 ```
 
-Add the ip address of the client machine (not the host running mmserver) to the client list assigned to ACCEPTED_HOSTS. For example, to allow mmserver to accept clients on host 192.168.1.123:
+Add the IP address of the client machine (not the host running mmserver) to the client list assigned to ACCEPTED_HOSTS. For example, to allow mmserver to accept clients on host `192.168.1.123`, add it to the list:
 
 ```
 export ACCEPTED_HOSTS="['127.0.0.1','192.168.1.123']"
