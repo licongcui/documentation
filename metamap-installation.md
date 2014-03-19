@@ -73,7 +73,7 @@ Start the Word Sense Disambiguation (WSD) Server:
 Start the MetaMap server:
 
 ```
-./bin/mmserver
+./bin/mmserver<year>
 ```
 
 ### 105 Using ConceptAnnotator.jar to annotate data dictionary variables
