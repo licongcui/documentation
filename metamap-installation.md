@@ -80,5 +80,4 @@ Start the MetaMap server:
 
 ```
 java -jar ConceptAnnotator.jar <InputPath> <OutputPath>
-
 ```
