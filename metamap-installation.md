@@ -103,4 +103,4 @@ Add the IP address of the client machine (not the host running mmserver) to the 
 export ACCEPTED_HOSTS="['127.0.0.1','192.168.1.123']"
 ```
 
-After this, mmserver will accept clients at host 192.168.1.123 (all of the entries must be ip-addresses, hostnames will not work)
+After this, mmserver will accept clients at host `192.168.1.123` (all of the entries must be IP addresses, hostnames will not work)
